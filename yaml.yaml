@@ -1,0 +1,22 @@
+phones:
+  phone1:
+    brand: samsung
+    model: galaxy s22 ultra
+    year: 2022
+    os:
+      name: android
+      version: 12
+  phone2:
+    brand: apple
+    model: iphone 14 pro
+    year: 2022
+    os:
+      name: ios
+      version: 16
+  phone3:
+    brand: google
+    model: pixel 7
+    year: 2022
+    os:
+      name: android
+      version: 13
