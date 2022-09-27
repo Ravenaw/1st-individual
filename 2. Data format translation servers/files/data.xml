@@ -1,0 +1,29 @@
+<phones>
+    <phone>
+        <brand>samsung</brand>
+        <model>galaxy s22 ultra</model>
+        <year>2022</year>
+        <os>
+            <name>android</name>
+            <version>12</version>
+        </os>
+    </phone>
+    <phone>
+        <brand>apple</brand>
+        <model>iphone 14 pro</model>
+        <year>2022</year>
+        <os>
+            <name>ios</name>
+            <version>16</version>
+        </os>
+    </phone>
+    <phone>
+        <brand>google</brand>
+        <model>pixel 7</model>
+        <year>2022</year>
+        <os>
+            <name>android</name>
+            <version>13</version>
+        </os>
+    </phone>
+</phones>
