@@ -1,8 +1,8 @@
 {
-  "name": "1st-individual",
+  "name": "File formats",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "csv_read.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "csv": "node csv_read.js",
