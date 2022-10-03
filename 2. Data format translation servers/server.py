@@ -1,17 +1,11 @@
 from fastapi import FastAPI
 import uvicorn
-import requests
 import json
 import csv
 import yaml
 import xmltodict
 
 app = FastAPI()
-
-
-@app.get("/")
-def _():
-    return {"Hello": "World"}
 
 
 @app.get("/json")
