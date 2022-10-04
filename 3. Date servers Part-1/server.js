@@ -10,7 +10,7 @@ const options = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "Date-time API",
+      title: "Date server API",
       version: "1.0.0",
       description: "A simple Express API",
     },
